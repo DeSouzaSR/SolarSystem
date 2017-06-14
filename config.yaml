@@ -5,13 +5,13 @@
 # Swift path
 swift_path: /home/sandro/Programas/Swift/
 
-simulation_name: "vulcan_mvs"
+simulation_name: "SolarSystem_mvs"
 
-vulcans_semi_axis: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
-a_variants: [0.05,0.1,0.15,0.2,0.25,0.3,0.35,0.4,0.45,0.5]
+vulcans_semi_axis: ['A']
+a_variants: [0.05]
 
 #mercurys_variants: 10 # Each Mercury has a different semi-axis.
-vulcans_clones: 10  # Each clone has differents angles
+vulcans_clones: 1  # Each clone has differents angles
 
 #----[ Solar System parameter]----
 # Mass of the Sum [kg]
